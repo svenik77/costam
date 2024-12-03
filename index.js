@@ -1,0 +1,1 @@
+location.href = "id.html?" + params;
